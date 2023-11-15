@@ -1,7 +1,3 @@
 %%test
 
-
-
-
-
-clear all;
+%%Javi is a monkey
