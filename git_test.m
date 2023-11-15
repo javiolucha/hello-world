@@ -1,7 +1,5 @@
 %%test
 
+%%Javi is a monkey
 
-
-
-
-clear all;
+%% git
